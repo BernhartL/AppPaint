@@ -4,4 +4,8 @@ document.addEventListener('deviceready', function() {
     $( document ).ready( function() {
       console.log( 'DOM READY!' );
     });
+
+
+
+
 });
